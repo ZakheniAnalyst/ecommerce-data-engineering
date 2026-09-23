@@ -1,8 +1,8 @@
 # E-Commerce Data Engineering Project
 
-An end-to-end e-commerce data engineering and analytics project built using AWS S3, Snowflake, dbt, and Power BI.
+![E-Commerce Data Engineering Architecture](images/architecture.png)
 
-The project demonstrates how raw e-commerce data can be collected, stored, transformed, tested, modeled, and ultimately presented as business-ready analytics.
+An end-to-end e-commerce data engineering and analytics project built using AWS S3, Snowflake, dbt, and Power BI.
 
 ## Project Overview
 
